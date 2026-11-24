@@ -1,0 +1,6 @@
+*
+!.gitignore
+!README.md
+!SUPPORT2_Project.ipynb
+!data/
+!data/support2.csv
